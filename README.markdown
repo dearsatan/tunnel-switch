@@ -1,3 +1,8 @@
+### This is an updated version of TunnelSwitch:
+ * move pac file to cn, as sometimes github is blocked
+ * update manifest to version 2
+
+
 ### TunnelSwitch is chrome extension allows you manage and switch between multiple proxies quickly and easily
 
 [TunnelSwitch in Chrome Web Store](https://chrome.google.com/webstore/detail/tunnelswitch/nfpphleklkamlblagdkbkomjmaedanoh?hl=en)
