@@ -21,6 +21,7 @@ function FindProxyForURL(url, host)
         ,'google.com'
         ,'google.com.hk'
         ,'google.com.tw'
+        ,'google.com.sg'
         ,'googleusercontent.com'
 
         ,'t.co'

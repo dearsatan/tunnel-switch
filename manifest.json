@@ -7,15 +7,14 @@
       "default_title": "Click to change the proxy"
    },
    "description": "cycle through your proxy settings",
-   "homepage_url": "https://github.com/oylbin/tunnel-switch",
+   "homepage_url": "https://github.com/dearsatan/tunnel-switch",
    "icons": {
       "128": "asset/image/tunnel_switch.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3doCk11TSyD6VwXMLPoWupNXN6Kw/YpwJ2ayTooM+ndPwGbRZK5C6E3lNLxHZPWzsGBAHFtcpt/TAKJTew5a0GC4Vl6lYaeuc/8Xr1P42k/Pij9XWfCN1vB5oQKlI5/EZgBLzBOTZw37jQ/N3J84+q9pt7lQs7pu7mYvOEyqmRwIDAQAB",
    "manifest_version": 2,
    "name": "TunnelSwitch",
    "options_page": "asset/html/options.html",
    "permissions": [ "proxy", "tabs", "http://*/*", "https://*/*" ],
    "update_url": "http://clients2.google.com/service/update2/crx",
-   "version": "1.0.5"
+   "version": "1.0.6"
 }
